@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycikikci&" alt="ycikikci" /></p>
 
-![snake gif](https://github.com/ycikikci/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ycikikci/blob/output/github-contribution-grid-snake.gif)
