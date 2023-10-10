@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycikikci" alt="ycikikci" /></a> </p>
 
-- 🔭 I’m currently working on **financial engineering subjects**
+- 🔭 I’m currently working on **financial engineering and risk management subjects**
 
 - 🌱 I’m currently learning **Python**
 
