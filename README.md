@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **finance and coding**
+- 👯 I’m looking to collaborate on **finance and data analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
