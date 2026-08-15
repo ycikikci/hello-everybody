@@ -7,11 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=ycikikci&label=Profile%20views&color=0e75b6&style=flat" alt="ycikikci" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ycikikci" alt="ycikikci" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on **financial engineering and risk management subjects**
 
